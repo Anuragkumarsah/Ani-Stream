@@ -12,3 +12,5 @@
     Google font: https://fonts.google.com/
 
     Boxicons: https://boxicons.com/
+    
+    Consumet API: https://docs.consumet.org/#tag/gogoanime
